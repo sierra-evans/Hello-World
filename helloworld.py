@@ -14,6 +14,7 @@ def get_time(now):
 
 def display_datetime(date, time):
     print(f"The current date is: {date}\nThe current time is: {time} MST")
+    return
 
 def main():
     display_hello_world()
