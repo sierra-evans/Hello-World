@@ -2,8 +2,6 @@
 
 This is a simple Python program that displays "Hello World" to the user. It also displays the date and time in Mountain Standard Time Zone. I created this program to demonstrate how to integrate Python, Visual Studio Code, and Git/GitHub into one program.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/xttTZ8LDBCo)
 
 # Development Environment
